@@ -281,7 +281,7 @@ body{
 .text-credit{
     height: 50%;
     width: 40%;
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid var(--silver);
     display: flex;
     align-items: center;
 }
@@ -305,7 +305,7 @@ body{
     font-size: 20px;
     font-family: monospace;
     font-weight: normal;
-    color: white;
+    color: var(--silver);
 }
 
 
